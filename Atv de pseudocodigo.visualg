@@ -1,0 +1,15 @@
+algoritmo "Acumulador"
+
+var
+  Acumulador: Real
+
+inicio
+
+  Acumulador <- 1 
+
+    Para acumulador de 1 ate 2 faca
+    Escreval("acumulador", Acumulador)
+    Acumulador <- acumulador +1
+   fimpara 
+
+fimalgoritmo
